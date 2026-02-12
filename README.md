@@ -2,7 +2,7 @@
 
 Software Engineer specializing in **full-stack web development** with **Next.js, TypeScript, and Node.js**. I build scalable SaaS products, integrate AI-driven features, and ship real-time systems that people actually use.
 
-Based in Bangalore, India · Open to **full-stack & backend roles** (remote/hybrid)
+Based in Bangalore, India · Open to **full-stack & Front-end roles** (remote/hybrid)
 
 📫 [durgesh.work.x@gmail.com](mailto:durgesh.work.x@gmail.com) · [LinkedIn](https://www.linkedin.com/in/durgesh-chandrakar-586a34267/) · [X / Twitter](https://x.com/8bitxShinobi)
 
