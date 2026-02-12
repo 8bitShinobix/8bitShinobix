@@ -48,7 +48,7 @@ Tools       →  Git · Postman · VS Code · Jest ·
 
 
 
-### 💼 Work Experience
+###  Work Experience
 
 | Company | Role | Highlight |
 |---------|------|-----------|
