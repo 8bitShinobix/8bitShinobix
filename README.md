@@ -1,4 +1,4 @@
-# Hey, I'm Durgesh 👋
+# Hey, I'm Durgesh 
 
 Software Engineer specializing in **full-stack web development** with **Next.js, TypeScript, and Node.js**. I build scalable SaaS products, integrate AI-driven features, and ship real-time systems that people actually use.
 
@@ -8,7 +8,7 @@ Based in Bangalore, India · Open to **full-stack & backend roles** (remote/hybr
 
 ---
 
-### ⚡ What I Bring
+###  Progress so far
 
 - **3+ production apps** with real users — Leetssr (4,000+ waitlist signups), Resumate (1,500+ unique users)
 - **AI integrations** — LLM evaluation pipelines, OpenAI API, Deepgram voice agents, Replicate image generation
@@ -18,7 +18,7 @@ Based in Bangalore, India · Open to **full-stack & backend roles** (remote/hybr
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 ```
 Frontend    →  React · Next.js · React Native · Tailwind CSS · Zustand · Redux
@@ -31,14 +31,14 @@ Tools       →  Git · Postman · VS Code · Jest · Zod
 
 ---
 
-### 🔨 Currently Building
+###  Currently Building
 
 - **[Blanq](https://github.com/8bitShinobix/blanq)** — Beautiful forms, zero effort. A form builder SaaS with conversational UI and AI-powered interactions.
 - **[Chadcn UI](https://github.com/8bitShinobix/chadcn-ui)** — Production-grade shadcn blocks — a curated library of ready-to-use UI components.
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 - **[Resumate](https://github.com/8bitShinobix/resumate)** — AI-powered resume & cover letter builder. **1,500+ unique users.** `Next.js · OpenAI API · Tailwind CSS`
 - **[WebRTC Messaging Platform](https://github.com/8bitShinobix/WebTRC-messaging-platform)** — Real-time messaging with video calls, file uploads, and channel-based chat. `Next.js · Socket.IO · WebRTC`
