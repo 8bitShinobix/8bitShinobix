@@ -1,6 +1,6 @@
 # Hey, I'm Durgesh 
 
-Software Engineer specializing in **full-stack web development** with **Next.js, TypeScript, and Node.js**. I build scalable SaaS products, integrate AI-driven features, and ship real-time systems that people actually use.
+I design and build things for the web. Frontend-heavy full-stack developer who likes solving problems and making interfaces that feel right.
 
 Based in Bangalore, India · Open to **full-stack & Front-end roles** (remote/hybrid)
 
@@ -9,7 +9,7 @@ Based in Bangalore, India · Open to **full-stack & Front-end roles** (remote/hy
 ---
 ###  Currently Building
 
-- **[Blanq](https://github.com/8bitShinobix/blanq)** — Beautiful forms, zero effort. A form builder SaaS with conversational UI and AI-powered interactions.
+- **[Blanq](https://github.com/8bitShinobix/blanq)** — Beautiful forms, zero effort. A form builder SaaS.
 - **[Chadcn UI](https://github.com/8bitShinobix/chadcn-ui)** — Production-grade shadcn blocks — a curated library of ready-to-use UI components.
 
 ---
@@ -28,7 +28,7 @@ Based in Bangalore, India · Open to **full-stack & Front-end roles** (remote/hy
 ```
 Frontend    →  React · Next.js · React Native · Tailwind CSS · Zustand · Redux
 Backend     →  Node.js · Express · TypeScript · REST APIs · WebSockets · Socket.IO
-AI/ML       →  OpenAI API · Deepgram · Replicate · LLM Pipelines
+AI/ML       →  OpenAI API  · LLM Pipelines
 Databases   →  PostgreSQL · MongoDB · Firebase/Firestore · Prisma ORM
 Cloud       →  AWS (EC2, S3, DynamoDB) · Docker · Vercel · Firebase (Auth, FCM, Functions)
 Tools       →  Git · Postman · VS Code · Jest · 
