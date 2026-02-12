@@ -1,8 +1,6 @@
 # Hey, I'm Durgesh 
 
-I design and build things for the web. Frontend-heavy full-stack developer who likes solving problems and making interfaces that feel right.
-
-Based in Bangalore, India · Open to **full-stack & Front-end roles** (remote/hybrid)
+I design and build things for the web. Frontend-heavy full-stack developer who likes solving problems and making interfaces that feel right. Based in Bangalore, India · Open to **full-stack & Front-end roles** (remote/hybrid)
 
 📫 [durgesh.work.x@gmail.com](mailto:durgesh.work.x@gmail.com) · [LinkedIn](https://www.linkedin.com/in/durgesh-chandrakar-586a34267/) · [X / Twitter](https://x.com/8bitxShinobi)
 
